@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSiir
 - 👀 I’m interested in too many things
-- 🌱 I’m currently learning C++20
+- 🌱 I’m currently learning C++20 & Vue 3
 - 📫 How to reach me: mrsiir@gmail.com
 
 <!---
