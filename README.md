@@ -1,10 +1,6 @@
-<p style='text-align: right;'>
-  <a href="https://app.daily.dev/mrsiir"><img align="right" src="https://api.daily.dev/devcards/5dfa187a08b043f6a4c9f68a61de47e9.png?r=l6v" width="400" alt="Xavier's Dev Card"/></a>
-</p>
-
 - 👋 Hi, I’m @MrSiir
 - 👀 I’m interested in too many things
-- 🌱 I’m currently learning C++20 & Vue 3
+- 🌱 I’m currently learning Vue 3 Composition API, PHP 8.1 and Symfony 6.1
 - 📫 How to reach me: mrsiir@gmail.com
 
 <!---
