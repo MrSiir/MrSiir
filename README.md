@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSiir
 - 👀 I’m interested in too many things
-- 🌱 I’m currently learning Vue 3 Composition API, PHP 8.1 and Symfony 6.1
+- 🌱 I’m currently learning Vue 3 Composition API, PHP 8.2 and Symfony 6.3
 - 📫 How to reach me: mrsiir@gmail.com
 
 <!---
